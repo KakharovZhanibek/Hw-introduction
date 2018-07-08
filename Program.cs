@@ -10,10 +10,6 @@ namespace ConsoleApp9
 {
     class Program
     {
-        partial class Part : Car
-        {
-
-        }
         public class Car
         {
             private string Mark_;
